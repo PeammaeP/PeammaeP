@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Mahannop Thabua ( Peam )
 - 👀 Interesting Topics : Technology , Economics , History , Music (especially piano)
-- 🌾 Relevant Working Fields : Backend Development , Data Science & Engineer , Machine Learning , Cybersecurity
-- 🌼 Skills : HTML , CSS , JavaScript ( Node.js , express.js ), C , C++ , Java , Python , TensorFlow , Database
+
